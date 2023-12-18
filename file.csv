@@ -1,0 +1,6 @@
+employee_id,name,age,department_id,department_name
+1,John Doe,30,101,Engineering
+2,Jane Smith,28,102,Marketing
+3,Bob Johnson,35,101,Engineering
+4,Alice Williams,32,103,Finance
+5,Chris Brown,29,102,Marketing
